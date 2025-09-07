@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.com",
+    "status": "up",
+    "status_code": 200,
+    "response_time": 107.94,
+    "error": null,
+    "timestamp": "2025-09-07T12:20:13.655914"
+  },
+  {
+    "name": "Github",
+    "url": "https://www.github.com",
+    "status": "up",
+    "status_code": 200,
+    "response_time": 211.22,
+    "error": null,
+    "timestamp": "2025-09-07T12:20:13.656133"
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "status": "up",
+    "status_code": 200,
+    "response_time": 132.67,
+    "error": null,
+    "timestamp": "2025-09-07T12:20:13.655816"
+  },
+  {
+    "name": "Meta",
+    "url": "https://www.meta.com",
+    "status": "up",
+    "status_code": 200,
+    "response_time": 649.4,
+    "error": null,
+    "timestamp": "2025-09-07T12:20:13.656211"
+  }
+]
